@@ -1,9 +1,10 @@
-## 👋 Hi, I'm Moga
+<img width="165" height="82" alt="image" src="https://github.com/user-attachments/assets/74671ceb-5217-423f-b039-11bafc11e59d" />## 👋 Hi, I'm Moga
 
 I'm building expertise in **Marketing Strategy & Analytics** — translating customer data into actionable growth strategies.
 
 ### Current Focus
 - 🎓 MBA Candidate (Class of 2029)
+- 🇨🇳 Studying Chinese language and culture
 - 📊 Building end-to-end analytics pipelines: SQL → Python → Power BI → AI
 -  Specializing in: Cohort Analysis, Customer Lifetime Value, A/B Testing, Voice-of-Customer Intelligence
 
