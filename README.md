@@ -1,4 +1,4 @@
-<img width="165" height="82" alt="image" src="https://github.com/user-attachments/assets/74671ceb-5217-423f-b039-11bafc11e59d" />## 👋 Hi, I'm Moga
+👋 Hi, I'm Moga
 
 I'm building expertise in **Marketing Strategy & Analytics** — translating customer data into actionable growth strategies.
 
